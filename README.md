@@ -12,7 +12,7 @@
 - 
 
 ### 시연 영상
-### [▶영상 보러가기](https://www.youtube.com/watch?v=qFSmtGsdRBI)
+### [▶영상 보러가기](https://youtu.be/aQxviNjqf3I)
 
 # 목차
 ---
