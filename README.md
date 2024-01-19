@@ -4,7 +4,7 @@
 전자 및 수기 영수증의 텍스트를 추출해서 DB화 시키는 프로젝트 입니다. <br/><br/>
 개발 기간 : `2023.12.25 ~ 2024.01.18`
 
-## Flask 사용법
+### Flask 사용법
 - venv 가상 환경 설정 후 pip install -r requirements.txt 명령어 입력
 - app.py에서 실행
 
