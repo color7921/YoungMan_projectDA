@@ -32,9 +32,8 @@
 * [팀소개](#팀소개)
 * [개발 일지](#개발-일지)
 * [사용 기술](#사용-기술)
-* [구현 기능](#구현-기능)
-* [Rest API](#Rest-API)
-* [프로젝트 개념도](#프로젝트 개념도)
+* [프로젝트 개념도](#프로젝트-개념도)
+* [엉수증 변환결과](#영수증-변환-결과)
 
 # 팀소개
 ---
@@ -100,4 +99,7 @@ https://www.notion.so/AI-bb1b347feb924633902d73b60667424b
 ---
 ![asd](https://github.com/color7921/YoungMan_projectDA/assets/132988693/927a1a52-d6fe-4bf9-83c7-5c6ebbf1758e)
 
+# 영수증 변환 결과
+---
+![213123](https://github.com/color7921/YoungMan_projectDA/assets/132988693/54063cb1-730b-4c5f-9400-36ef9d15cc40)
 
