@@ -37,7 +37,7 @@
 ### 시연 영상
 ### [▶영상 보러가기](https://youtu.be/aQxviNjqf3I)
 
-# Notion_Link
+### Notion_Link
 https://youngmanproject.notion.site/AI-bb1b347feb924633902d73b60667424b?pvs=74
 
 # 목차
