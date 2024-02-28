@@ -7,6 +7,7 @@
 ### Docker 사용법
 - docker-compose.yml 파일을 임의의 폴더에 다운
 - 도커 실행 -> 임의의 폴더 경로에서 cmd 실행
+- docker-compose up 입력
 - http://localhost:3000/ 접속
 
 ### Flask 사용법
