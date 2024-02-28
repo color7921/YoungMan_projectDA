@@ -36,6 +36,9 @@
 ### 시연 영상
 ### [▶영상 보러가기](https://youtu.be/aQxviNjqf3I)
 
+# Notion_Link
+https://youngmanproject.notion.site/AI-bb1b347feb924633902d73b60667424b?pvs=74
+
 # 목차
 ---
 * [팀소개](#팀소개)
@@ -88,9 +91,6 @@
 - 최종 결과 보고서 작성
 - 발표 준비 자료 작성
   
-# Notion_Link
-https://www.notion.so/AI-bb1b347feb924633902d73b60667424b
-
 # 사용 기술
 ---
 - Python 3.11.4
